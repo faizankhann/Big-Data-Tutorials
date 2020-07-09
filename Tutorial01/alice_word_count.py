@@ -21,7 +21,7 @@ abbreviated_terms = {
     "shouldn't":["should", "not"],
     "they're":["they", "are"],
     "they've":["they", "have"],
-    "they'll":["they", "will"],
+    "they'll":["they", "will"], 
     "wasn't":["was","not"],
     "we'll": ["we", "will"],
     "we're": ["we", "are"],
